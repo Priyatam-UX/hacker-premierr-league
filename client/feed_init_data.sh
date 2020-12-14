@@ -1,0 +1,1 @@
+mongoimport --uri mongodb+srv://pranjalya:<PASSWORD>@cluster0.inqyc.mongodb.net/hpl --collection hpldb --type json --file data/Leaderboard_Initial_Dataset65148c7.json --jsonArray

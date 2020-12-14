@@ -1,0 +1,18 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Hacker Premiere League server",
+  "main": "index.js",
+  "author": "Pranjalya Tiwari",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.11.7",
+    "nodemon": "^2.0.6"
+  }
+}
